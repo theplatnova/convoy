@@ -1,6 +1,6 @@
 services:
     web:
-        image: rtukpe/convoy-main:v9
+        image: getconvoy/convoy:latest
         command: ["/start.sh"]
         volumes:
             - ./convoy.json:/convoy.json

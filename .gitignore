@@ -34,7 +34,7 @@ bin
 # Convoy specific
 convoy
 convoy.json
-docker-compose.yml
+# docker-compose.yml
 compose.yml
 typesense_data
 postgres_data**
